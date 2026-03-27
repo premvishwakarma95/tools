@@ -34,6 +34,10 @@ A curated list of useful tools for developers with links and short use-cases.
   https://coolify.io/  
   https://github.com/coollabsio/coolify
 
+- **Browser Automation MCP (Playwright)**  
+  It has list of mcp servers. Used to automate browser actions like navigation, scraping, and testing  
+  https://www.pulsemcp.com/servers/playwright
+
 ---
 
 ## 💡 Contribute
