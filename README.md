@@ -38,6 +38,11 @@ A curated list of useful tools for developers with links and short use-cases.
   It has list of mcp servers. Used to automate browser actions like navigation, scraping, and testing  
   https://www.pulsemcp.com/servers/playwright
 
+- **OpenClaw**  
+  Used to create and run autonomous AI agents that can automate tasks, interact with apps, and perform real-world actions  
+  https://openclaw.ai/  
+  https://github.com/openclaw/openclaw
+
 ---
 
 ## 💡 Contribute
