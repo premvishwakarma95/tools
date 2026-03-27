@@ -1,50 +1,36 @@
 # 🛠️ Developer Tools Collection
 
-A curated list of useful tools for developers (AI, Backend, DevOps, Storage, etc.)
+A curated list of useful tools for developers with links and short use-cases.
 
 ---
 
-## 🤖 AI Tools
-
 - **LangChain**  
-  Framework for building LLM-powered applications with memory, agents, and tool integrations  
+  Used to build LLM-powered applications with memory, agents, and tool integrations  
   https://www.langchain.com/  
   https://github.com/langchain-ai/langchain
 
 - **Composio**  
-  Connect AI agents with 100+ tools like GitHub, Slack, Gmail for real-world actions  
+  Used to connect AI agents with apps like GitHub, Slack, and Gmail for automation  
   https://composio.dev/  
   https://github.com/composiohq/composio
 
----
-
-## ☁️ Storage Tools
-
 - **MinIO**  
-  High-performance S3-compatible object storage (open-source alternative to AWS S3)  
+  Used for storing files as S3-compatible object storage  
   https://min.io/  
   https://github.com/minio/minio
 
----
-
-## ⚡ Caching / Database Tools
-
 - **Redis**  
-  In-memory data store used for caching, sessions, and real-time applications  
+  Used for caching data, managing sessions, and handling real-time data  
   https://redis.io/  
   https://github.com/redis/redis
 
----
-
-## ⚙️ DevOps / Deployment Tools
-
 - **Docker**  
-  Containerization platform for building, shipping, and running applications  
+  Used to containerize applications for consistent development and deployment  
   https://www.docker.com/  
   https://github.com/docker
 
 - **Coolify**  
-  Open-source self-hosted platform to deploy and manage applications (Heroku alternative)  
+  Used to deploy and manage applications on your own server (self-hosted Heroku alternative)  
   https://coolify.io/  
   https://github.com/coollabsio/coolify
 
@@ -52,9 +38,8 @@ A curated list of useful tools for developers (AI, Backend, DevOps, Storage, etc
 
 ## 💡 Contribute
 
-Want to add a tool? Feel free to open a PR with:
+Want to add a tool? Open a PR with:
 - Tool name  
-- Category  
-- Short description  
+- What it is used for  
 - Official link  
 - GitHub repo (if open source)
