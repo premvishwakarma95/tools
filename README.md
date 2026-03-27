@@ -27,6 +27,15 @@ A curated list of useful tools for developers (AI, Backend, DevOps, Storage, etc
 
 ---
 
+## ⚡ Caching / Database Tools
+
+- **Redis**  
+  In-memory data store used for caching, sessions, and real-time applications  
+  https://redis.io/  
+  https://github.com/redis/redis
+
+---
+
 ## ⚙️ DevOps / Deployment Tools
 
 - **Docker**  
