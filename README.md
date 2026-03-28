@@ -50,9 +50,10 @@ A curated list of useful tools for developers with links and short use-cases.
   - Official link: https://github.com/camoufox/camoufox  
   - GitHub repo: https://github.com/camoufox/camoufox
  
- - **Postgres Vector Knowledge Base**  
+- **Postgres Vector Knowledge Base**  
   Used to store and search data using embeddings for semantic search in AI applications  
-  Example: You store “Refund policy is 7 days” in the database, and when you ask “Can I return my order?”, it returns “Refund policy is 7 days” as the most relevant result
+  Example: You store “Refund policy is 7 days” in the database, and when you ask “Can I return my order?”, it returns “Refund policy is 7 days” as the most relevant result  
+  How to implement: Generate embeddings using a model, store them in PostgreSQL (pgvector), and query using similarity search (<-> operator)
 
 ---
 
