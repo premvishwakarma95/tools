@@ -48,7 +48,11 @@ A curated list of useful tools for developers with links and short use-cases.
   - Withou human intervention we can operate and automate anything we want. like can operate browser with command. used in pushable ai.  
   - What it is used for: Used to automate web actions with stealth features like CAPTCHA solving, fingerprint spoofing, proxy support, and live control panel   
   - Official link: https://github.com/camoufox/camoufox  
-  - GitHub repo: https://github.com/camoufox/camoufox  
+  - GitHub repo: https://github.com/camoufox/camoufox
+ 
+ - **Postgres Vector Knowledge Base**  
+  Used to store and search data using embeddings for semantic search in AI applications  
+  Example: You store “Refund policy is 7 days” in the database, and when you ask “Can I return my order?”, it returns “Refund policy is 7 days” as the most relevant result
 
 ---
 
