@@ -44,11 +44,11 @@ A curated list of useful tools for developers with links and short use-cases.
   https://github.com/openclaw/openclaw
 
 - **Tool name: Camoufox (Custom Automation Browser)**  
-  Browser - Highly edited version of camoufox browser + AutoCaptcha solver + custom browser OS fingerprint script + Proxy + Live preview panel with controlling  
-  Withou human intervention we can operate and automate anything we want. like can operate browser with command. used in pushable ai.  
-  What it is used for: Used to automate web actions with stealth features like CAPTCHA solving, fingerprint spoofing, proxy support, and live control panel   
-  Official link: https://github.com/camoufox/camoufox  
-  GitHub repo: https://github.com/camoufox/camoufox  
+  - Browser - Highly edited version of camoufox browser + AutoCaptcha solver + custom browser OS fingerprint script + Proxy + Live preview panel with controlling  
+  - Withou human intervention we can operate and automate anything we want. like can operate browser with command. used in pushable ai.  
+  - What it is used for: Used to automate web actions with stealth features like CAPTCHA solving, fingerprint spoofing, proxy support, and live control panel   
+  - Official link: https://github.com/camoufox/camoufox  
+  - GitHub repo: https://github.com/camoufox/camoufox  
 
 ---
 
