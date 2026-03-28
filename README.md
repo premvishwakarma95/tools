@@ -55,6 +55,11 @@ A curated list of useful tools for developers with links and short use-cases.
   - Example: You store “Refund policy is 7 days” in the database, and when you ask “Can I return my order?”, it returns “Refund policy is 7 days” as the most relevant result  
   - How to implement: Generate embeddings using a model, store them in PostgreSQL (pgvector), and query using similarity search (<-> operator)
   - “Tech stack” line (Node.js + OpenAI + Postgres) for each tool
+ 
+- **MCP (Model Context Protocol)**  
+  - Used to connect AI agents with external tools, APIs, databases, and systems in a standardized way
+  - AI Agent → MCP → Tool (Email / slack / Github / Browser / API)
+  - Examplple -> User says: "Check my GitHub issues", Flow -> AI understands intent - Uses MCP tool - Calls GitHub server - Returns result
 
 ---
 
