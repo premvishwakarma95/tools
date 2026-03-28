@@ -52,3 +52,18 @@ Want to add a tool? Open a PR with:
 - What it is used for  
 - Official link  
 - GitHub repo (if open source)
+
+## Tools to define.
+- Langchain/LangGraph - AI Agent framework - JS SDK
+- DB - Postgres
+- ORM - Drizzle
+- Caching - Redis
+- All three panels - platform , admin , public - Next Js
+- Browser - Highly edited version of camoufox browser + AutoCaptcha solver + custom browser OS fingerprint script + Proxy + Live preview panel with controlling
+- Knowledge base - Postgres vector + embedd model
+- Python server to communicate with Browser to Agents
+- MCP for connecting everything .
+- Composio for Integrations .
+- Claude Code SDK for Claude models for AI Agents in testing phase
+- AI Agents - Self Learning loop + Error reduction per iteration + Short Term / Long Term Memory + Notebook for LLM + Openrouter for LLM Gateway ( Anthropic - - SDK for their model + OpenAI SDK for other models ) + Inter Agent Communication
+- Channels - Slack + Telegram
